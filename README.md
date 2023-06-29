@@ -31,7 +31,7 @@ python3 RevTickCalculator.py or just run the RevTickCalculator.exe
 
 👤 **Gvol & Georgemech**
 
-* Github: [@Gvol](https://github.com/Gvol)
+* Github: [@Gvolexe](https://github.com/Gvolexe)
 
 ## 🤝 Contributing
 
