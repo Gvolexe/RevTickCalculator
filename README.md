@@ -43,8 +43,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Gvol & Georgemech](https://github.com/Gvol).<br />
+Copyright © 2023 [Gvol & Georgemech](https://github.com/Gvolexe).<br />
 This project is [MIT](https://github.com/Gvolexe/RevTickCalculator/blob/main/MIT) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+
