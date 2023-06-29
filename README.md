@@ -1,12 +1,15 @@
-<h1 align="center">Welcome to FTC Tick calculator 👋</h1>
+<h1 align="center">Welcome to Rev tick calculator 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-beta 1.1 realese-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/Gvolexe/RevTickCalculator/blob/main/LICENSE" target="_blank">
-    <img alt="License: LICENSE" src="https://img.shields.io/badge/License-LICENSE-yellow.svg" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1 realese-blue.svg?cacheSeconds=2592000" />
+  <a href="https://github.com/Gvolexe/RevTickCalculator" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
+  </a>
+  <a href="https://github.com/Gvolexe/RevTickCalculator/blob/main/MIT" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
-> This is a tick calulator for the enoder of ultraplanetary mottors by rev
+> this is a rev tick calculator for the ftc and fgc
 
 ### 🏠 [Homepage](https://github.com/Gvolexe/RevTickCalculator)
 
@@ -26,9 +29,9 @@ python3 RevTickCalculator.py or just run the RevTickCalculator.exe
 
 ## Author
 
-👤 **Gvol**
+👤 **Gvol & Georgemech**
 
-* Github: [@Gvolexe](https://github.com/Gvolexe)
+* Github: [@Gvol](https://github.com/Gvol)
 
 ## 🤝 Contributing
 
@@ -40,8 +43,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2023 [Gvol](https://github.com/Gvolexe).<br />
-This project is [LICENSE](https://github.com/Gvolexe/RevTickCalculator/blob/main/LICENSE) licensed.
+Copyright © 2023 [Gvol & Georgemech](https://github.com/Gvol).<br />
+This project is [MIT](https://github.com/Gvolexe/RevTickCalculator/blob/main/MIT) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
